@@ -28,3 +28,13 @@ The dataset includes ad features like:
 - Importance of data cleaning & encoding
 - How to tune tree-based models using `caret`
 - XGBoost gave the best results in terms of RMSE
+
+
+---
+
+## 👩🏻‍💻 About Me
+
+**Ayu Putri Vidiantiwi**  
+📚 M.S. in Applied Analytics, Columbia University  
+📊 Passionate about finance, business, data storytelling, and analytics
+🌐 [LinkedIn](https://www.linkedin.com/in/ayuputriv/) | 

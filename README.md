@@ -38,3 +38,6 @@ The dataset includes ad features like:
 📚 M.S. in Applied Analytics, Columbia University  
 📊 Passionate about finance, business, data storytelling, and analytics
 🌐 [LinkedIn](https://www.linkedin.com/in/ayuputriv/) | 
+
+
+📌 This project was created as part of the "Applied Analytics Framework and Methods I" course under the guidance of Instructor Kitty K. Chan, Fall 2024.
